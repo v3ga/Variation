@@ -1,0 +1,14 @@
+{
+  "perturbationAmount": 0.5782608389854431,
+  "bDrawGrid": false,
+  "bDarkMode": true,
+  "rndDrawCell": 0,
+  "bComputeStripes": true,
+  "bDrawPolygons": false,
+  "gridFieldName": "Sine",
+  "resy": 25,
+  "bSquare": false,
+  "resx": 25,
+  "bDrawField": false,
+  "gridCellRenderName": "Ellipses"
+}
